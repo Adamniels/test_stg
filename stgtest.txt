@@ -1,3 +1,5 @@
 la till en rad ovanför i tidigare patch commit
 hej detta är ett test för att lära mig om stg stack git
-en till rad, ändring i patch 1 som kommer krocka
+Tog bort en rad och bytte ut den till detta
+fast la även till en helt ny rad
+hej2
