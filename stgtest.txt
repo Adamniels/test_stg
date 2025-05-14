@@ -2,6 +2,5 @@ la till en rad ovanför i tidigare patch commit
 hej detta är ett test för att lära mig om stg stack git
 Tog bort en rad och bytte ut den till detta
 fast la även till en helt ny rad
-hej2
 la till en rad som jag commitar vanligt
-hej
+hej från main
