@@ -4,3 +4,7 @@ Tog bort en rad och bytte ut den till detta
 fast la även till en helt ny rad
 la till en rad som jag commitar vanligt
 hej från ny branch
+
+la till en rad som jag commitar vanligt
+
+aafdadfsandrar lite här
