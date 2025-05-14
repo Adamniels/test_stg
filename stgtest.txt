@@ -3,4 +3,4 @@ hej detta är ett test för att lära mig om stg stack git
 Tog bort en rad och bytte ut den till detta
 fast la även till en helt ny rad
 la till en rad som jag commitar vanligt
-hej från main
+hej från ny branch
